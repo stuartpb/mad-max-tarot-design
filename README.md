@@ -22,7 +22,7 @@ Here are the rules I'm following:
 - So as to not step on any toes, neither set references anything from Fury Road (beyond the extent to which the cutscenes from The Game do so, ie. War Boys are OK, but no Immortan Joe or Imperator Furiosa).
 - No subjects appear more than once - if you name your favorite character from *Road Warrior*, they're either on one card, or none (though there should be a place for all the big players *somewhere*).
 
-I'm going by the A. E. Waite numbering for the Major Arcana where Stength is 8 and Justice is 11, because if you're doing a themed Tarot deck and you're not following Waite-Smith, you might as well just draw random pictures.
+I'm going by the A. E. Waite numbering for the Major Arcana where Strength is 8 and Justice is 11, because if you're doing a themed Tarot deck and you're not following Waite-Smith, you might as well just draw random pictures.
 
 ## Contributing
 

@@ -18,7 +18,7 @@ In light of that, I've been churning in my mind for a while now card designs for
 
 Here are the rules I'm following:
 
-- Cards in the `original-trilogy` set don't incorporate anything from `the-game`, or vice versa (beyond the scarce few elements that are shared by both).
+- Cards in the `original-trilogy` set don't incorporate anything from `the-game`, or vice versa (beyond the scarce few elements that are shared by both, ie. Max himself).
 - So as to not step on any toes, neither set references anything from Fury Road (beyond the extent to which the cutscenes from The Game do so, ie. War Boys are OK, but no Immortan Joe or Imperator Furiosa).
 - No subjects appear more than once - if you name your favorite character from *Road Warrior*, they're either on one card, or none (though there should be a place for all the big players *somewhere*).
 

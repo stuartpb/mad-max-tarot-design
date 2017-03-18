@@ -66,6 +66,8 @@ Johnny the Boy. He fits the bill of a pariah left for dead by his cohort, who is
 
 ## XIV. Temperance
 
+Uh... whoever put together the explosives before the big battle at the climax of The Road Warrior. (Was that The Captain's Girl? If so, that'd certainly bring High Priestess into clearer contrast.)
+
 ## XV. The Devil
 
 **Lord Humungus.** I considered Humungus for The Emperor, but the Master Blaster / Auntie Entity interplay was too enticing to resist - and, with Humungus as Emperor, there'd be a massive void to fill for the role of The Devil.
